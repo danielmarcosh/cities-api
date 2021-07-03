@@ -15,9 +15,9 @@ public class Country {
     @Column(name = "nome_pt")
     private String portugueseName;
     @Column(name = "sigla")
-    private  String code;
+    private String code;
 
-    private  Integer bacen;
+    private Integer bacen;
 
     public Country() {
     }
