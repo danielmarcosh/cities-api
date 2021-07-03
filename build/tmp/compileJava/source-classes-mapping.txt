@@ -1,8 +1,14 @@
+com/github/danielmarcosh/citiesapi/countries/CountryResource.java
+ com.github.danielmarcosh.citiesapi.countries.CountryResource
 com/github/danielmarcosh/citiesapi/CitiesApiApplication.java
  com.github.danielmarcosh.citiesapi.CitiesApiApplication
-com/github/danielmarcosh/citiesapi/repository/CounterRepository.java
- com.github.danielmarcosh.citiesapi.repository.CounterRepository
+com/github/danielmarcosh/citiesapi/staties/StateRepository.java
+ com.github.danielmarcosh.citiesapi.staties.StateRepository
+com/github/danielmarcosh/citiesapi/staties/resources/StateResource.java
+ com.github.danielmarcosh.citiesapi.staties.resources.StateResource
+com/github/danielmarcosh/citiesapi/countries/repository/CounterRepository.java
+ com.github.danielmarcosh.citiesapi.countries.repository.CounterRepository
 com/github/danielmarcosh/citiesapi/countries/Country.java
  com.github.danielmarcosh.citiesapi.countries.Country
-com/github/danielmarcosh/citiesapi/CountryResource.java
- com.github.danielmarcosh.citiesapi.CountryResource
+com/github/danielmarcosh/citiesapi/staties/State.java
+ com.github.danielmarcosh.citiesapi.staties.State
